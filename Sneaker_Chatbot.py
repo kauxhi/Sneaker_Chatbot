@@ -7,6 +7,8 @@
 # --- Imports ---
 import streamlit as st
 import spacy
+import spacy.cli
+spacy.cli.download("en_core_web_sm")
 from transformers import pipeline
 from googletrans import Translator
 import joblib

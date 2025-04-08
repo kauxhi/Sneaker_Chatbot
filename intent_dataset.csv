@@ -1,0 +1,13 @@
+query,intent
+Hi,greeting
+Hello there,greeting
+Show me Nike shoes,recommend
+What’s the price of Yeezy Beluga?,check_price
+Do you have size 9 in stock?,availability
+Suggest some sneakers under ₹5000,recommend
+Thanks a lot,thanks
+Goodbye,exit
+Tell me about Adidas Ultraboost,recommend
+How much does the Air Jordan 1 cost?,check_price
+I want a size 11 Puma sneaker,filter_size
+Is Adidas NMD available in size 10?,availability
